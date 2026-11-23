@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**vs1230546-vivi/vs1230546-vivi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I am Vipul Sharma! 👋
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- B.Tech CSE Student at K.R. Mangalam University, Gurugram
+- Currently learning Python, Linux, Git and GitHub workflows.
+- Interested in Artificial Intelligence and Machine Learning (AI/ML).
+- Building my programming skills through practical projects.
+
+## Technical Skills
+
+| Category | Technologies |
+|---|---|
+| Languages | Python (Beginner), Bash / Shell Scripting |
+| Tools | Git, GitHub, VS Code, Linux Terminal, Postman |
+| Concepts | File Systems, REST APIs, Markdown, Git Workflows |
+
+## Featured Projects
+
+### CSE103 Lab — LAB 3
+
+[View Project](https://github.com/vs1230546-vivi/cse103-lab-LAB3)
+
+Git workflows, API interaction, debugging and Markdown documentation.
+
+## Currently Working On
+
+- Semester 1 lab projects
+- Improving Python programming skills
+- Learning AI/ML fundamentals
+- Building problem-solving habits
+
+## Connect With Me
+
+- LinkedIn: linkedin.com/in/vipul-sharma-70642a332
+- email : 2601730214@krmu.edu.in
